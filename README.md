@@ -1,6 +1,6 @@
 # javascriptSlimeSoccer
 
-Live link: https://arig501.github.io/javascriptSlimeSoccer/
+Live link: https://ari-501.github.io/javascriptSlimeSoccer/
 
 A simple, fast paced two-player slime soccer game made using JavaScript. 
 
